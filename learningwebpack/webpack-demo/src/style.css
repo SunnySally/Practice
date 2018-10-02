@@ -1,0 +1,12 @@
+/* @font-face {
+  font-family: 'Elegancia';
+  src: url('./Elegancia\ Romantica.ttf');
+  font-weight: 600;
+  font-style: normal;
+} */
+
+.hello {
+  color: blue;
+  /* background: url('./icon.png'); */
+  /* font-family: 'Elegancia' */
+}

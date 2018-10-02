@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head></head>
+<style>
+</style>
+
+<body>
+  <% include partials/nav.ejs %>
+    <h1>Welcome, profile page of
+      <%= name %>
+    </h1>
+    <h2>
+      Age
+      <%= data.age %>
+        job
+        <%= data.job %>
+    </h2>
+    <h2>hobbies</h2>
+    <ul>
+      <% data.hobbies.forEach(function(item){ %>
+        <li>
+          <%= item %>
+        </li>
+        <% }) %>
+    </ul>
+</body>
+
+</html>

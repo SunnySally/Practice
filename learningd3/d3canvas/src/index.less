@@ -1,0 +1,34 @@
+@width: 600px;
+@height: 600px;
+
+body{
+  width: 100%;
+  height: 100%;  
+}
+.canvas {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: @width;
+  height: @height;
+}
+.mask {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: @width;
+  height: @height;
+  opacity: 0.8;
+  background-color: black;
+  color: white;
+  font-size: 28px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  div {
+    cursor: Default;
+    user-select: none;
+  }
+}

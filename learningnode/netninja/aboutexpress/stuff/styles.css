@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h2 {
+  text-align: center;
+  color: aquamarine;
+}
+
+label {
+  display: block
+}
+
+input {
+  display: block
+}

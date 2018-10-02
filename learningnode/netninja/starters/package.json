@@ -1,0 +1,13 @@
+{
+  "name": "netninja",
+  "version": "1.0.0",
+  "description": "WASHINGTON — Most Supreme Court appointments are in a way inconsequential. A conservative replaces a conservative, a liberal replaces a liberal, and the court’s basic direction is unchanged.",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

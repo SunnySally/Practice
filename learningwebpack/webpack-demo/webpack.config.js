@@ -11,7 +11,7 @@ module.exports = {
   },
   devtool: 'inline-source-map',
   devServer: {
-    contentBase: './dist',
+    contentBase: './', //用来指定
     hot: true
   },
   plugins: [

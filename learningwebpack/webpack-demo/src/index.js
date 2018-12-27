@@ -3,7 +3,6 @@ import './style.css'
 // import icon from './icon.png'
 // import data from './data.xml'
 import printMe from './print'
-import json from './test.json'
 import lottie from 'lottie-web'
 function component() {
   let element = document.createElement('div');

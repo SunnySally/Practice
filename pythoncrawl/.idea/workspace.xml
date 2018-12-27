@@ -2,12 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a477-cafc-4c1e-b0db-d9c484db784d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/crawl2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/crawl_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ip_pool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process_data.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learningwebpack/webpack-demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../learningwebpack/webpack-demo/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../learningwebpack/webpack-demo/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../learningwebpack/webpack-demo/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crawl_stats.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Cristiano-Ronaldo.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Eden-Hazard.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Edinson-Cavani.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Kylian-Mbappé.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Lionel-Messi.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Neymar.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Raheem-Sterling.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Sergio-Agüero.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Thorgan-Hazard.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Téji-Savanier.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ip_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Alexandre-Lacazette.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Antoine-Griezmann.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/David-Silva.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Gabriel-Jesus.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Gareth-Bale.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Gonzalo-Higuaín.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Harry-Kane.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Jamie-Vardy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Julian-Draxler.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Karim-Benzema.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Kevin-Volland.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Lorenzo-Insigne.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Luis-Suárez.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Marco-Reus.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Mesut-Özil.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Mohamed-Salah.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Nabil-Fekir.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Pierre-Emerick-Aubameyang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Robert-Lewandowski.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Roberto-Firmino.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Romelu-Lukaku.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Sadio-Mané.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Stephan-El-Shaarawy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Thomas-Müller.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Álvaro-Morata.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/playerdata/Ángel-Di-María.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/process_data.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,27 +67,27 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="3" />
-          <entry key="csv" value="2" />
-          <entry key="py" value="23" />
+          <entry key="csv" value="8" />
+          <entry key="py" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="5" />
-          <entry key="Python" value="21" />
+          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="Python" value="45" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="1" />
-          <entry key="py" value="5131" />
+          <entry key="dummy" value="8" />
+          <entry key="py" value="9043" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="5027" />
+          <entry key="PLAIN_TEXT" value="8" />
+          <entry key="Python" value="8939" />
           <entry key="YAML" value="104" />
         </counts>
       </usages-collector>
@@ -58,45 +96,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1127">
-              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ip_pool.py">
+        <entry file="file://$PROJECT_DIR$/whoscored/crawl.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crawl.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-675">
-              <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
-              <folding>
-                <marker date="1545296696599" expanded="true" signature="2475:2476" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/process_data.py">
+        <entry file="file://$PROJECT_DIR$/whoscored/crawl2.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/crawl_stats.py">
+        <entry file="file://$PROJECT_DIR$/stats_nba/crawl_nba.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-                <marker date="1545731906477" expanded="false" signature="966:987" ph="..." />
-              </folding>
+            <state relative-caret-position="76">
+              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -112,22 +125,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>bs4</find>
-      <find>os</find>
-      <find>%</find>
-      <find>wirte_csv</find>
-      <find>write_csv</find>
-      <find>strip</find>
-      <find>get_url</find>
       <find>write_data</find>
-      <find>get_data</find>
       <find>83532</find>
       <find>thom</find>
       <find>bs</find>
       <find>content = browser.page_sourcef</find>
       <find>find</find>
-      <find>sleep</find>
+      <find>print</find>
       <find>contents</find>
+      <find>sleep</find>
+      <find>sl</find>
+      <find>get_url</find>
+      <find>browser.quit</find>
+      <find>get_data</find>
+      <find>text</find>
+      <find>string</find>
+      <find>write_table_data</find>
+      <find>DRIVER_BIN</find>
+      <find>c</find>
+      <find>listdir</find>
+      <find>downloaded_files</find>
+      <find>crawl_single</find>
+      <find>pprint</find>
+      <find>etree</find>
+      <find>write_csv</find>
+      <find>DIR</find>
+      <find>MAX_TIMEOUT</find>
+      <find>XPATH</find>
+      <find>timeout</find>
+      <find>by.</find>
+      <find>waitcallback</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -137,10 +164,14 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/crawl3.py" />
-        <option value="$PROJECT_DIR$/crawl2.py" />
         <option value="$PROJECT_DIR$/crawl.py" />
         <option value="$PROJECT_DIR$/crawl_stats_NBA.py" />
         <option value="$PROJECT_DIR$/crawl_stats.py" />
+        <option value="$PROJECT_DIR$/crawl2.py" />
+        <option value="$PROJECT_DIR$/crawl_profile.py" />
+        <option value="$PROJECT_DIR$/crawl_profile_url.py" />
+        <option value="$PROJECT_DIR$/crawl_nba.py" />
+        <option value="$PROJECT_DIR$/stats_nba/crawl_nba.py" />
       </list>
     </option>
   </component>
@@ -166,6 +197,11 @@
               <item name="pythoncrawl" type="b2602c69:ProjectViewProjectNode" />
               <item name="pythoncrawl" type="462c0819:PsiDirectoryNode" />
               <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="pythoncrawl" type="b2602c69:ProjectViewProjectNode" />
+              <item name="pythoncrawl" type="462c0819:PsiDirectoryNode" />
+              <item name="stats_nba" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -228,7 +264,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/crawl_nba.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,14 +303,14 @@
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989429" visible="true" weight="0.29634643" />
+      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989429" weight="0.29634643" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010571" side_tool="true" weight="0.29634643" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32882273" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" sideWeight="0.49964765" weight="0.32882273" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32882273" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.17320703" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.23545332" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.29905277" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32882273" />
@@ -290,17 +326,44 @@
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="browser.find_element_by_id(&quot;agreed-too-cookies&quot;)" />
+        <watch expression="element" />
+        <watch expression="tr.xpath('./a/text()'" />
+        <watch expression="tr.xpath('./a/text()')" />
+        <watch expression="td" />
+        <watch expression="td.xpath('./text()')[0]" />
+        <watch expression="td.xpath('./a/text()')[0]" />
+        <watch expression="td.xpath('./a/text()')[0]" />
+        <watch expression="td" />
+        <watch expression="headers[:-2]" />
+        <watch expression="headers[-1:][0]" />
       </configuration>
     </watches-manager>
   </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>idx + '-' + name + '.csv'</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>table[0].xpath('./thead')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>element</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>type(tds)</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/http/client.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="132">
@@ -312,13 +375,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="139">
           <caret line="332" selection-start-line="332" selection-end-line="332" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="241" selection-start-line="241" selection-end-line="241" />
         </state>
       </provider>
     </entry>
@@ -352,40 +408,147 @@
     <entry file="file://$PROJECT_DIR$/tutorial/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1127">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crawl_stats_NBA.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="332" selection-start-line="332" selection-end-line="332" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ip_pool.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/process_data.py">
+    <entry file="file://$PROJECT_DIR$/playerdata/url.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nba/statsJames Harden.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl.py">
+    <entry file="file://$PROJECT_DIR$/nba/advanced/James Harden.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nba/traditional/James Harden.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-675">
-          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
+        <state relative-caret-position="190">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1188">
+          <caret line="1657" selection-start-line="1657" selection-end-line="1657" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nba/url.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="604" column="29" lean-forward="true" selection-start-line="604" selection-start-column="29" selection-end-line="604" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_profile_url.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
           <folding>
-            <marker date="1545296696599" expanded="true" signature="2475:2476" ph="..." />
+            <element signature="e#56#78#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl_stats.py">
+    <entry file="file://$PROJECT_DIR$/process_data.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_nba.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        <state relative-caret-position="219">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
           <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1545731906477" expanded="false" signature="966:987" ph="..." />
+            <element signature="e#0#30#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-113">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="e#56#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="85" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="85" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="e#1#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoscored/crawl.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/whoscored/crawl2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats_nba/crawl_profile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stats_nba/crawl_nba.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
         </state>
       </provider>
     </entry>

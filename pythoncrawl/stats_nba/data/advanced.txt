@@ -1,0 +1,15 @@
+OffRtg Offensive Rating
+DefRtg Defensive Rating
+NetRtg Net Rating
+AST% Assist Percentage
+AST/TO Assist to Turnover Ratio
+AST Ratio Assist Ratio
+OREB% Offensive Rebounding Percentage
+DREB% Defensive Rebound Percentage
+REB% Rebound Percentage
+TO Ratio Team Turnover Percentage
+eFG% Effective Field Goal Percentage
+TS% True Shooting Percentage
+USG% Usage Percentage
+PACE Pace Factor
+PIE Player Impact Estimate

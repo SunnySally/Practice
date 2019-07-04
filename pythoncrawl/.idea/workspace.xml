@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd17a477-cafc-4c1e-b0db-d9c484db784d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../learningwebpack/webpack-demo/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../learningwebpack/webpack-demo/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../learningwebpack/webpack-demo/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/../learningwebpack/webpack-demo/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawl2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/crawl_stats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Cristiano-Ronaldo.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Eden-Hazard.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Edinson-Cavani.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Kylian-Mbappé.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Lionel-Messi.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Neymar.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Raheem-Sterling.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Sergio-Agüero.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Thorgan-Hazard.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/Téji-Savanier.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ip_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Alexandre-Lacazette.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Antoine-Griezmann.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/David-Silva.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Gabriel-Jesus.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Gareth-Bale.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Gonzalo-Higuaín.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Harry-Kane.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Jamie-Vardy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Julian-Draxler.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Karim-Benzema.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Kevin-Volland.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Lorenzo-Insigne.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Luis-Suárez.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Marco-Reus.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Mesut-Özil.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Mohamed-Salah.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Nabil-Fekir.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Pierre-Emerick-Aubameyang.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Robert-Lewandowski.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Roberto-Firmino.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Romelu-Lukaku.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Sadio-Mané.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Stephan-El-Shaarawy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Thomas-Müller.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Álvaro-Morata.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/playerdata/Ángel-Di-María.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/process_data.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,37 +14,37 @@
     <session id="1643441750">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cfg" value="3" />
           <entry key="csv" value="8" />
-          <entry key="py" value="47" />
+          <entry key="py" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="11" />
-          <entry key="Python" value="45" />
+          <entry key="Python" value="46" />
           <entry key="YAML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="8" />
-          <entry key="py" value="9043" />
+          <entry key="py" value="9619" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="8939" />
+          <entry key="Python" value="9515" />
           <entry key="YAML" value="104" />
         </counts>
       </usages-collector>
@@ -105,11 +62,23 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/stats_nba/crawl_nba.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+            <state relative-caret-position="189">
+              <caret line="88" column="41" lean-forward="true" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../../C 可视化模板/比赛/demo/radarplot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -172,6 +141,7 @@
         <option value="$PROJECT_DIR$/crawl_profile_url.py" />
         <option value="$PROJECT_DIR$/crawl_nba.py" />
         <option value="$PROJECT_DIR$/stats_nba/crawl_nba.py" />
+        <option value="$PROJECT_DIR$/../../../C 可视化模板/比赛/demo/radarplot.py" />
       </list>
     </option>
   </component>
@@ -186,6 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,7 +178,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,15 +271,15 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" sideWeight="0.4989429" weight="0.29634643" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" sideWeight="0.4989429" visible="true" weight="0.29634643" />
       <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.5010571" side_tool="true" weight="0.29634643" />
       <window_info anchor="bottom" id="Python Console" order="2" weight="0.32882273" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" sideWeight="0.49964765" weight="0.32882273" />
       <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.23545332" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.23545332" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.29905277" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -386,13 +356,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/Cristiano-Ronaldo.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="53" lean-forward="true" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Cristiano-Ronaldo.csv" />
     <entry file="file://$PROJECT_DIR$/tutorial/tutorial/middlewares.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -408,9 +372,7 @@
     <entry file="file://$PROJECT_DIR$/tutorial/scrapy.cfg">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl_stats_NBA.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_stats_NBA.py" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/codecs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -418,29 +380,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ip_pool.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playerdata/url.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nba/statsJames Harden.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nba/advanced/James Harden.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nba/traditional/James Harden.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ip_pool.py" />
+    <entry file="file://$PROJECT_DIR$/playerdata/url.csv" />
+    <entry file="file://$PROJECT_DIR$/nba/statsJames Harden.csv" />
+    <entry file="file://$PROJECT_DIR$/nba/advanced/James Harden.csv" />
+    <entry file="file://$PROJECT_DIR$/nba/traditional/James Harden.csv" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -469,9 +413,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nba/url.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/nba/url.csv" />
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/socket.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
@@ -479,76 +421,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawl_profile_url.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#56#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/process_data.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl_nba.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl_profile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-113">
-          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
-          <folding>
-            <element signature="e#56#78#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1026">
-          <caret line="54" column="85" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="85" />
-          <folding>
-            <element signature="e#1#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crawl2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="91">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="e#1#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl_profile_url.py" />
+    <entry file="file://$PROJECT_DIR$/process_data.py" />
+    <entry file="file://$PROJECT_DIR$/crawl_nba.py" />
+    <entry file="file://$PROJECT_DIR$/crawl_profile.py" />
+    <entry file="file://$PROJECT_DIR$/crawl.py" />
+    <entry file="file://$PROJECT_DIR$/crawl2.py" />
+    <entry file="file://$PROJECT_DIR$/stats_nba/crawl_profile.py" />
     <entry file="file://$PROJECT_DIR$/whoscored/crawl.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/whoscored/crawl2.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/stats_nba/crawl_profile.py">
+    <entry file="file://$PROJECT_DIR$/stats_nba/crawl_nba.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="13" selection-start-line="13" selection-end-line="13" selection-end-column="32" />
+        <state relative-caret-position="189">
+          <caret line="88" column="41" lean-forward="true" selection-start-line="88" selection-start-column="8" selection-end-line="88" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/stats_nba/crawl_nba.py">
+    <entry file="file://$PROJECT_DIR$/../../../C 可视化模板/比赛/demo/radarplot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+        <state relative-caret-position="274">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
         </state>
       </provider>
     </entry>
